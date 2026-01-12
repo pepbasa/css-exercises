@@ -31,3 +31,7 @@ a {
   /* this removes the line under the links */
   text-decoration: none;
 }
+
+/* lists have default margin and padding that you have to change if you don't want to use them as regular lists */
+
+/* always justify-content and align-items even if they seem to align correctly without it*/
